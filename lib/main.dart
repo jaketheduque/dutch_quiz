@@ -1,5 +1,6 @@
 import 'package:dutch_quiz/firebase_options.dart';
 import 'package:dutch_quiz/pages/home_page.dart';
+import 'package:dutch_quiz/pages/sign_in_page.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
@@ -33,9 +34,15 @@ class MainApp extends StatelessWidget {
             backgroundColor: scheme.primary
           )
         ),
-        routes: {
-          '/': (BuildContext context) => const HomePage(),
-        },
+        home: Builder(
+          builder: (context) {
+            if (FirebaseAuth.instance.currentUser != null) {
+              return const HomePage();
+            } else {
+              return const SignInPage();
+            }
+          }
+        ),
       ),
     );
   }

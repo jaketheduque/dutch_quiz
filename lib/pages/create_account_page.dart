@@ -100,7 +100,7 @@ class _CreateAccountPageState extends State<CreateAccountPage> {
                                   toastification.show(
                                     type: ToastificationType.success,
                                     style: ToastificationStyle.fillColored,
-                                    title: const Text('Account created! Redirecting back to login page...'),
+                                    title: const Text('Account created! Redirecting to home page...'),
                                     alignment: Alignment.bottomCenter,
                                     autoCloseDuration: const Duration(seconds: 3)
                                   );
