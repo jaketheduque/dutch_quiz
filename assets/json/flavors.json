@@ -1,0 +1,879 @@
+[
+    {
+        "flavor": "ALMOND BAR",
+        "toppings": [],
+        "ingredients": [
+            "WHITE CHOCOLATE",
+            "ALMOND"
+        ]
+    },
+    {
+        "flavor": "AMERETTO",
+        "toppings": [],
+        "ingredients": [
+            "ALMOND",
+            "CHERRY"
+        ]
+    },
+    {
+        "flavor": "B52",
+        "toppings": [],
+        "ingredients": [
+            "ORANGE",
+            "IRISH CREAM"
+        ]
+    },
+    {
+        "flavor": "BANAYNAY",
+        "toppings": [],
+        "ingredients": [
+            "BANANA",
+            "DARK CHOCOLATE"
+        ]
+    },
+    {
+        "flavor": "BANANA BREAD",
+        "toppings": [],
+        "ingredients": [
+            "BANANA",
+            "HAZELNUT"
+        ]
+    },
+    {
+        "flavor": "BANANA CREAM PIE",
+        "toppings": [],
+        "ingredients": [
+            "BANANA",
+            "WHITE CHOCOLATE"
+        ]
+    },
+    {
+        "flavor": "BILLY JEAN",
+        "toppings": [],
+        "ingredients": [
+            "WHITE CHOCOLATE",
+            "COCONUT"
+        ]
+    },
+    {
+        "flavor": "BIRTHDAY CAKE",
+        "toppings": [],
+        "ingredients": [
+            "ALMOND ROCA",
+            "WHITE CHOCOLATE"
+        ]
+    },
+    {
+        "flavor": "BLACK FOREST",
+        "toppings": [],
+        "ingredients": [
+            "CHERRY",
+            "DARK CHOCOLATE"
+        ]
+    },
+    {
+        "flavor": "THE BOB",
+        "toppings": [],
+        "ingredients": [
+            "BANANA",
+            "COCONUT",
+            "DARK CHOCOLATE"
+        ]
+    },
+    {
+        "flavor": "BUBBLE GUM",
+        "toppings": [],
+        "ingredients": [
+            "BANANA",
+            "STRAWBERRY",
+            "VANILLA"
+        ]
+    },
+    {
+        "flavor": "CAKE BATTER",
+        "toppings": [],
+        "ingredients": [
+            "ALMOND ROCA",
+            "WHITE CHOCOLATE"
+        ]
+    },
+    {
+        "flavor": "CINNAMON BUN",
+        "toppings": [],
+        "ingredients": [
+            "BROWN SUGAR CINNAMON",
+            "SALTED CARMEL"
+        ]
+    },
+    {
+        "flavor": "CINNAMON DOLCE",
+        "toppings": [],
+        "ingredients": [
+            "CINNAMON",
+            "ENGLISH TOFFEE"
+        ]
+    },
+    {
+        "flavor": "CINNAMON ROLL",
+        "toppings": [],
+        "ingredients": [
+            "CINNAMON",
+            "WHITE CHOCOLATE"
+        ]
+    },
+    {
+        "flavor": "COOKIE",
+        "toppings": [],
+        "ingredients": [
+            "WHITE CHOCOLATE",
+            "CHOCOLATE MAC"
+        ]
+    },
+    {
+        "flavor": "COTTEN CANDY",
+        "toppings": [],
+        "ingredients": [
+            "WHITE CHOCOLATE",
+            "BLUE RAZ"
+        ]
+    },
+    {
+        "flavor": "CRAZY HAWAIIAN",
+        "toppings": [],
+        "ingredients": [
+            "CARAMEL",
+            "CHOCOLATE MAC",
+            "DARK CHOCOLATEE"
+        ]
+    },
+    {
+        "flavor": "DINO EGG",
+        "toppings": [],
+        "ingredients": [
+            "BLUE RAZ",
+            "UNI BLOOD DRIZZ"
+        ]
+    },
+    {
+        "flavor": "DOUBLE RAINBOW",
+        "toppings": [],
+        "ingredients": [
+            "PEACH",
+            "STRAW",
+            "COCONUT"
+        ]
+    },
+    {
+        "flavor": "DREAM WEAVER",
+        "toppings": [],
+        "ingredients": [
+            "HAZELNUT",
+            "WHITE CHOCOLATE"
+        ]
+    },
+    {
+        "flavor": "DUTCH CANYON",
+        "toppings": [],
+        "ingredients": [
+            "WHITE CHOCOLATE",
+            "DARK CHOCOLATE",
+            "CHOCOLATE MAC",
+            "CARMEL DRIZZ"
+        ]
+    },
+    {
+        "flavor": "DUTCH MOJITO",
+        "toppings": [],
+        "ingredients": [
+            "LIME",
+            "COCONUT",
+            "CREME DE MINT"
+        ]
+    },
+    {
+        "flavor": "ELECTRIC BERRY",
+        "toppings": [],
+        "ingredients": [
+            "LIME",
+            "BLUE RAZ"
+        ]
+    },
+    {
+        "flavor": "FREEDOM FROST",
+        "toppings": [],
+        "ingredients": [
+            "VANILLA",
+            "BLUE AND RED RAZ DRIZZ"
+        ]
+    },
+    {
+        "flavor": "FRENCH TOAST",
+        "toppings": [],
+        "ingredients": [
+            "WHITE CHOCOLATE",
+            "BROWN SUGAR CINNAMON"
+        ]
+    },
+    {
+        "flavor": "FRENCH VANILLA BEAN",
+        "toppings": [],
+        "ingredients": [
+            "VANILLA",
+            "CARMEL"
+        ]
+    },
+    {
+        "flavor": "GERMAN CHOCOLATE",
+        "toppings": [],
+        "ingredients": [
+            "CARAMEL",
+            "COCONUT",
+            "DARK CHOCOLATE"
+        ]
+    },
+    {
+        "flavor": "GOLDEN EAGLE",
+        "toppings": [],
+        "ingredients": [
+            "VANILLA",
+            "CARMEL",
+            "CARMEL DRIZZ"
+        ]
+    },
+    {
+        "flavor": "GRASSHOPPER",
+        "toppings": [],
+        "ingredients": [
+            "DARK CHOCOLATE",
+            "CREME DE MINT"
+        ]
+    },
+    {
+        "flavor": "GUMMY BEAR",
+        "toppings": [],
+        "ingredients": [
+            "KIWI",
+            "LIME",
+            "WHITE CHOCOLATE"
+        ]
+    },
+    {
+        "flavor": "HAWAIIAN",
+        "toppings": [],
+        "ingredients": [
+            "BANANA",
+            "ORANGE",
+            "PEACH",
+            "STRAW"
+        ]
+    },
+    {
+        "flavor": "IRIE",
+        "toppings": [],
+        "ingredients": [
+            "BANANA",
+            "COCONUT"
+        ]
+    },
+    {
+        "flavor": "ISLANDER",
+        "toppings": [],
+        "ingredients": [
+            "CHOCOLATE MAC",
+            "COCONUT",
+            "VANILLA"
+        ]
+    },
+    {
+        "flavor": "LAZER CAT",
+        "toppings": [],
+        "ingredients": [
+            "RED RAZ",
+            "COCONUT"
+        ]
+    },
+    {
+        "flavor": "MIDNIGHT",
+        "toppings": [],
+        "ingredients": [
+            "POM",
+            "BLACKBERRY"
+        ]
+    },
+    {
+        "flavor": "MOLTEN LAVA",
+        "toppings": [],
+        "ingredients": [
+            "CINNAMON",
+            "DARK CHOCOLATE"
+        ]
+    },
+    {
+        "flavor": "NINJA",
+        "toppings": [],
+        "ingredients": [
+            "WHITE CHOCOLATE",
+            "CREME DE MINT"
+        ]
+    },
+    {
+        "flavor": "NUTTY IRISHMEN",
+        "toppings": [],
+        "ingredients": [
+            "IRISH CREAM",
+            "HAZELNUT"
+        ]
+    },
+    {
+        "flavor": "OG GUMMY",
+        "toppings": [],
+        "ingredients": [
+            "GRAPEFRUIT",
+            "PASSION",
+            "POM",
+            "WATERMELON"
+        ]
+    },
+    {
+        "flavor": "ORANGESICLE",
+        "toppings": [],
+        "ingredients": [
+            "ORANGE",
+            "VANILLA"
+        ]
+    },
+    {
+        "flavor": "PALM TREE",
+        "toppings": [],
+        "ingredients": [
+            "POM",
+            "PASSION",
+            "LIME"
+        ]
+    },
+    {
+        "flavor": "PASSION WATER",
+        "toppings": [],
+        "ingredients": [
+            "PASSION",
+            "WATERMELON"
+        ]
+    },
+    {
+        "flavor": "PEPPERMINT BARK",
+        "toppings": [],
+        "ingredients": [
+            "WHITE CHOCOLATE",
+            "PEPPERMINT",
+            "DARK CHOCOLATE"
+        ]
+    },
+    {
+        "flavor": "PINK FLAMINGO",
+        "toppings": [],
+        "ingredients": [
+            "PEACH",
+            "STRAW",
+            "WHITE CHOCOLATE"
+        ]
+    },
+    {
+        "flavor": "RASPBERRY TRUFFLE",
+        "toppings": [],
+        "ingredients": [
+            "RED RAZ",
+            "ENGLISH TOFFEE",
+            "WHITE CHOCOLATE"
+        ]
+    },
+    {
+        "flavor": "RAY OF SUNSHINE",
+        "toppings": [],
+        "ingredients": [
+            "BLACKBERRYY",
+            "PEACH",
+            "GRAPEFRUIT"
+        ]
+    },
+    {
+        "flavor": "RED, WHITE, AND BLUE",
+        "toppings": [],
+        "ingredients": [
+            "BLUE RAZ",
+            "RED RAZ",
+            "WHITE CHOCOLATE"
+        ]
+    },
+    {
+        "flavor": "S'MORES",
+        "toppings": [],
+        "ingredients": [
+            "DARK CHOCOLATE",
+            "WHITE CHOCOLATE",
+            "CHOCOLATE MAC",
+            "BROWN SUGAR CINNAMON"
+        ]
+    },
+    {
+        "flavor": "SHARK ATTACK",
+        "toppings": [],
+        "ingredients": [
+            "OCEAN WATER",
+            "POM DRIZZ"
+        ]
+    },
+    {
+        "flavor": "SNICKERDOODLE",
+        "toppings": [],
+        "ingredients": [
+            "CINNAMON",
+            "CHOCOLATE MAC",
+            "WHITE CHOCOLATE"
+        ]
+    },
+    {
+        "flavor": "STARRY NIGHT",
+        "toppings": [],
+        "ingredients": [
+            "BLUE RAZ",
+            "BLACKBERRY"
+        ]
+    },
+    {
+        "flavor": "STOPLIGHT",
+        "toppings": [],
+        "ingredients": [
+            "POM",
+            "PASSION",
+            "KIWI"
+        ]
+    },
+    {
+        "flavor": "SUGAR COOKIE",
+        "toppings": [],
+        "ingredients": [
+            "ALMOND ROCA",
+            "VANILLA",
+            "WHITE CHOCOLATE"
+        ]
+    },
+    {
+        "flavor": "SWEET SUNRISE",
+        "toppings": [],
+        "ingredients": [
+            "PEACH",
+            "PASSION",
+            "ORANGE BANANA"
+        ]
+    },
+    {
+        "flavor": "TOASTED MELLOW",
+        "toppings": [],
+        "ingredients": [
+            "CHOCOLATE MAC",
+            "VANILLA"
+        ]
+    },
+    {
+        "flavor": "TIGERS BLOOD",
+        "toppings": [],
+        "ingredients": [
+            "STRAW",
+            "COCONUT"
+        ]
+    },
+    {
+        "flavor": "TRICKY TRE",
+        "toppings": [],
+        "ingredients": [
+            "ORANGE PEACH"
+        ]
+    },
+    {
+        "flavor": "TRIFECTA",
+        "toppings": [],
+        "ingredients": [
+            "CARAMEL",
+            "WHITE CHOCOLATE",
+            "DARK CHOCOLATE"
+        ]
+    },
+    {
+        "flavor": "TRIXIE",
+        "toppings": [],
+        "ingredients": [
+            "ALMOND",
+            "ORANGE",
+            "POM"
+        ]
+    },
+    {
+        "flavor": "TROPICAL",
+        "toppings": [],
+        "ingredients": [
+            "PASSION",
+            "COCONUT",
+            "BLUE RAZ"
+        ]
+    },
+    {
+        "flavor": "TUXEDO",
+        "toppings": [],
+        "ingredients": [
+            "WHITE CHOCO",
+            "DARK CHOCO"
+        ]
+    },
+    {
+        "flavor": "UNI BLOOD",
+        "toppings": [],
+        "ingredients": [
+            "STRAW",
+            "WHITE CHOCO",
+            "ALMOND"
+        ]
+    },
+    {
+        "flavor": "VAMP SLAYER",
+        "toppings": [],
+        "ingredients": [
+            "STRAW",
+            "POM"
+        ]
+    },
+    {
+        "flavor": "VANILLA BEAN",
+        "toppings": [],
+        "ingredients": [
+            "CHOCO MAC",
+            "VANILLA"
+        ]
+    },
+    {
+        "flavor": "WALLABY",
+        "toppings": [],
+        "ingredients": [
+            "CHOCOLATE MAC",
+            "CARAMEL",
+            "DARK CHOCOLATE"
+        ]
+    },
+    {
+        "flavor": "WHITE ANGEL",
+        "toppings": [],
+        "ingredients": [
+            "VANILLA",
+            "COCONUT",
+            "WHITE CHOCOLATE"
+        ]
+    },
+    {
+        "flavor": "WHITE ZOMBIE",
+        "toppings": [],
+        "ingredients": [
+            "WHITE CHOCOLATE",
+            "VANILLA"
+        ]
+    },
+    {
+        "flavor": "AWESOME ORANGE",
+        "toppings": [],
+        "ingredients": [
+            "ORANGE",
+            "LIME",
+            "STRAW"
+        ]
+    },
+    {
+        "flavor": "BUGATTI BERRY",
+        "toppings": [],
+        "ingredients": [
+            "BLACKBERRY",
+            "GRAPEFRUIT"
+        ]
+    },
+    {
+        "flavor": "CAPRI SUN",
+        "toppings": [],
+        "ingredients": [
+            "BLACKBERRY",
+            "CHERRY",
+            "ALMOND",
+            "VANILLA"
+        ]
+    },
+    {
+        "flavor": "CAPTAIN CRUNCH",
+        "toppings": [],
+        "ingredients": [
+            "STRAW",
+            "HAZELNUT"
+        ]
+    },
+    {
+        "flavor": "CHUCK NORRIS",
+        "toppings": [],
+        "ingredients": [
+            "WHITE CHOCOLATE",
+            "IRISH CREAM"
+        ]
+    },
+    {
+        "flavor": "COOKIE MONSTER",
+        "toppings": [],
+        "ingredients": [
+            "DARK CHOCO",
+            "CHOCOLATE MAC"
+        ]
+    },
+    {
+        "flavor": "CREAMSICLE",
+        "toppings": [],
+        "ingredients": [
+            "ORANGE",
+            "WHITE CHOCOLATE"
+        ]
+    },
+    {
+        "flavor": "FLECK",
+        "toppings": [],
+        "ingredients": [
+            "COCONUT",
+            "HAZELNUT",
+            "WHITE CHOCOLATE"
+        ]
+    },
+    {
+        "flavor": "FRUITY PEBBLE",
+        "toppings": [],
+        "ingredients": [
+            "CHERRY",
+            "VANILLA"
+        ]
+    },
+    {
+        "flavor": "GREEN MONSTER",
+        "toppings": [],
+        "ingredients": [
+            "KIWI",
+            "LIME",
+            "CREME DE MINT"
+        ]
+    },
+    {
+        "flavor": "HARLEY KICKSTART",
+        "toppings": [],
+        "ingredients": [
+            "IRISH CREAM",
+            "DARK CHOCOLATE"
+        ]
+    },
+    {
+        "flavor": "JOLLY RANCHER",
+        "toppings": [],
+        "ingredients": [
+            "GREEN APPLE",
+            "STRAW"
+        ]
+    },
+    {
+        "flavor": "JR. MINT",
+        "toppings": [],
+        "ingredients": [
+            "DARK CHOCOLATE",
+            "PEPPERMINT"
+        ]
+    },
+    {
+        "flavor": "JUNGLE LOVE",
+        "toppings": [],
+        "ingredients": [
+            "POM",
+            "PASSION"
+        ]
+    },
+    {
+        "flavor": "KINGS OF LEON",
+        "toppings": [],
+        "ingredients": [
+            "KIWI",
+            "ORANGE",
+            "LIME"
+        ]
+    },
+    {
+        "flavor": "KITF",
+        "toppings": [],
+        "ingredients": [
+            "PEACH",
+            "POM",
+            "PASSION",
+            "CHERRY"
+        ]
+    },
+    {
+        "flavor": "NIRVANA",
+        "toppings": [],
+        "ingredients": [
+            "CARAMEL",
+            "IRISH CREAM",
+            "DARK CHOCOLATE"
+        ]
+    },
+    {
+        "flavor": "NUTELLA",
+        "toppings": [],
+        "ingredients": [
+            "ALMOND",
+            "CHOCOLATE MAC",
+            "DARK CHOCOLATE"
+        ]
+    },
+    {
+        "flavor": "OCEAN WATER",
+        "toppings": [],
+        "ingredients": [
+            "LIME",
+            "COCONUT",
+            "BLUE RAZ"
+        ]
+    },
+    {
+        "flavor": "OIL SPILL",
+        "toppings": [],
+        "ingredients": [
+            "BLUE RAZ",
+            "RES RAZ"
+        ]
+    },
+    {
+        "flavor": "OPP",
+        "toppings": [],
+        "ingredients": [
+            "ORANGE",
+            "POM",
+            "PASSION"
+        ]
+    },
+    {
+        "flavor": "OTTERPOP",
+        "toppings": [],
+        "ingredients": [
+            "PASSION",
+            "ORANGE",
+            "ALMOND"
+        ]
+    },
+    {
+        "flavor": "PBR",
+        "toppings": [],
+        "ingredients": [
+            "POM",
+            "BLACKBERRY",
+            "RED RAS"
+        ]
+    },
+    {
+        "flavor": "PEACH RING",
+        "toppings": [],
+        "ingredients": [
+            "PEACH",
+            "WATERMELON",
+            "COCONUT"
+        ]
+    },
+    {
+        "flavor": "PUSH POP",
+        "toppings": [],
+        "ingredients": [
+            "WILDBERRY",
+            "ORANGE",
+            "LIME"
+        ]
+    },
+    {
+        "flavor": "REESE'S",
+        "toppings": [],
+        "ingredients": [
+            "SALTED CARMEL",
+            "HAZELNUT",
+            "DARK CHOCOLATE"
+        ]
+    },
+    {
+        "flavor": "SCOOBIE SNACK",
+        "toppings": [],
+        "ingredients": [
+            "KIWI",
+            "WHITE CHOCOLATE"
+        ]
+    },
+    {
+        "flavor": "LOVE POTION",
+        "toppings": [],
+        "ingredients": [
+            "STRAW",
+            "LIME",
+            "PASSION"
+        ]
+    },
+    {
+        "flavor": "SHIRLEY TEMPLE",
+        "toppings": [],
+        "ingredients": [
+            "CHERRY ALMOND"
+        ]
+    },
+    {
+        "flavor": "SKITTLE",
+        "toppings": [],
+        "ingredients": [
+            "PEACH",
+            "STRAW",
+            "WHITE CHOCOLATE"
+        ]
+    },
+    {
+        "flavor": "SOUR PATCH",
+        "toppings": [],
+        "ingredients": [
+            "GREEN APPLE",
+            "POM"
+        ]
+    },
+    {
+        "flavor": "STARBURST",
+        "toppings": [],
+        "ingredients": [
+            "WHITE CHOCOLATE",
+            "ALMOND",
+            "PLUS ANY FLAVOR"
+        ]
+    },
+    {
+        "flavor": "SWEET TART",
+        "toppings": [],
+        "ingredients": [
+            "CHERRY",
+            "ALMOND",
+            "ALMOND"
+        ]
+    },
+    {
+        "flavor": "TRIPLE BERRY",
+        "toppings": [],
+        "ingredients": [
+            "RED RAS",
+            "BLACKBERRY",
+            "STRAW"
+        ]
+    },
+    {
+        "flavor": "WHITE RUSSIAN",
+        "toppings": [],
+        "ingredients": [
+            "WHITE CHOCOLATE",
+            "IRISH CREAM"
+        ]
+    }
+]

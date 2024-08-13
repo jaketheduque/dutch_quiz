@@ -1,3 +1,4 @@
+import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:dutch_quiz/firebase_options.dart';
 import 'package:dutch_quiz/pages/home_page.dart';
 import 'package:dutch_quiz/pages/sign_in_page.dart';
@@ -12,6 +13,7 @@ void main() async {
   await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
 
   await FirebaseAuth.instance.useAuthEmulator('localhost', 9099);
+  FirebaseFirestore.instance.useFirestoreEmulator('localhost', 8080);
 
   runApp(const MainApp());
 }

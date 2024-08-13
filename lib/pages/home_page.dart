@@ -1,3 +1,4 @@
+import 'package:dutch_quiz/pages/flavors_page.dart';
 import 'package:dutch_quiz/pages/sign_in_page.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
@@ -12,11 +13,11 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
-  User? currentUser = FirebaseAuth.instance.currentUser;
+  final User? _currentUser = FirebaseAuth.instance.currentUser;
 
   @override
   Widget build(BuildContext context) {
-    if (currentUser == null) {
+    if (_currentUser == null) {
       Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => const SignInPage()));
     }
 
@@ -44,6 +45,8 @@ class _HomePageState extends State<HomePage> {
                   alignment: Alignment.bottomCenter,
                   autoCloseDuration: const Duration(seconds: 5)
                 );
+
+                if (!context.mounted) return;
                 Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => const SignInPage()));
               }, 
               child: const Text('Sign out')
@@ -55,10 +58,21 @@ class _HomePageState extends State<HomePage> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Text('Welcome back, ${currentUser!.displayName}', style: const TextStyle(fontSize: 48))
-          ],
-        ),
-      ),
+            Text('Welcome back, ${_currentUser!.displayName}', style: const TextStyle(fontSize: 48)),
+            Expanded(
+              child: GridView.count(
+                crossAxisCount: 3,
+                children: [
+                  ElevatedButton(
+                    onPressed: () => Navigator.push(context, MaterialPageRoute(builder: (context) => FlavorsPage())), 
+                    child: const Text('Flavors Page')
+                  )
+                ]
+              )
+            )
+          ]
+        )
+      )
     );
   }
 }
